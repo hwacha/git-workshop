@@ -1,5 +1,6 @@
 # Hack@Brown `git` Workshop!
 
+This is an addition.
 Lets learn git!
 
 ## installation
